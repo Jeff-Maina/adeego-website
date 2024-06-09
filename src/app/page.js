@@ -7,7 +7,7 @@ import CTA from "./components/CTA";
 
 export default function Home() {
   return (
-    <main className="py-8 lg:py-0 flex flex-col gap-20 md:gap-28 border border-black">
+    <main className="py-8 lg:py-0 flex flex-col gap-20 md:gap-28">
       <div className="lg:h-screen w-full">
         <div className="w-full lg:h-[85%] lg:grid lg:grid-cols-2">
           <div className="flex flex-col gap-10 lg:gap-16 px-8 lg:w-full lg:h-full lg:items-end lg:justify-center">

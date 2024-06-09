@@ -34,6 +34,9 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+html, body{
+  scroll-behavior: smooth;
+}
 @keyframes spin {
   to {
       transform: rotate(360deg);
